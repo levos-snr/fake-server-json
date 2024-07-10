@@ -1,14 +1,14 @@
 {
   "name": "fake-server",
   "version": "1.0.0",
-  "description": "fake server with fake database",
+  "description": "Server for practise",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Youssef Zidan",
+  "author": "Lewis Odero",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.16.3"
+    "json-server": "^0.17.3"
   }
 }
